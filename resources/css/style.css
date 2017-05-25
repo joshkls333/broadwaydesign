@@ -38,3 +38,17 @@ ul {
 #process p{
   font-size: 14px;
 }
+
+#design {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#footer{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
