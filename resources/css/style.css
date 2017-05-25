@@ -23,5 +23,18 @@ ul {
 #nav{
   font-size: 18px;
   color: white;
+}
 
+#process h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#process h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#process p{
+  font-size: 14px;
 }
